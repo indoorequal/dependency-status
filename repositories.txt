@@ -1,2 +1,3 @@
-https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker.git
-https://github.com/Dependency-Drift-Tracker/dependency-drift-tracker-action.git
+https://github.com/indoorequal/indoorequal.org.git
+https://github.com/indoorequal/mapbox-gl-indoorequal.git
+https://github.com/indoorequal/openlayers-indoorequal.git
