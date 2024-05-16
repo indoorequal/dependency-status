@@ -1,5 +1,5 @@
 https://github.com/indoorequal/indoorequal.org.git
-https://github.com/indoorequal/mapbox-gl-indoorequal.git
+https://github.com/indoorequal/maplibre-gl-indoorequal.git
 https://github.com/indoorequal/openlayers-indoorequal.git
 https://github.com/indoorequal/parcel-transformer-markdown-front-matter.git
 https://github.com/indoorequal/vue-maplibre-gl.git
